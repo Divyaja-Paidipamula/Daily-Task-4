@@ -1,0 +1,34 @@
+.example-class {
+    margin: 30px;
+    background-color: aqua;
+    border: 3px black solid;
+    padding: 30px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 100px;
+}
+#uniqueElement{
+    text-align: center;
+    padding: 10px;
+    background-color: green;
+
+}
+p{
+    padding: 10px;
+    margin: 20px;
+}
+h2{
+    text-align: center;
+    background-color: aquamarine;
+    margin: 50px;
+}
+/* .item{
+text-align: center;
+}
+.nested{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+} */
